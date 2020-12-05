@@ -1,7 +1,5 @@
 <h1 align="center">
-
 # 💻 POO 2020.2
-
 </h1>
 
 <p align="center">Here will be posted my activies related to OOP matters</p>
@@ -17,4 +15,5 @@
 </p>
 
 ## S02E01 - Java Exercício
-    - **Projeto 02 Java** .[Carro](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto02/README.md).
+  
+  - **Projeto 02 Java** .[Carro](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto02/README.md).
