@@ -1,4 +1,4 @@
-package projeto03;
+package projeto04;
 
 import java.util.Scanner;
 
