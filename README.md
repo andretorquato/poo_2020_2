@@ -18,6 +18,10 @@
   
   - **Projeto 02 Java** .[Carro](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto02/README.md).
 
+## S03E01 - Java Exercício
+  
+  - **Projeto 03 Java** .[Cofre](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto03/README.md).
+
   ## S04E01 - Java Exercício
   
   - **Projeto 04 Encapsulamento** .[Tamagotchi](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto04/README.md).
