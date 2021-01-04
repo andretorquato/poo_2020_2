@@ -26,6 +26,10 @@
   
   - **Projeto 04 Encapsulamento** .[Tamagotchi](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto04/README.md).
 
-## S05E01 - Java Exercício
+## S04E02 - Java Exercício
 
   - **Projeto 05 Contato** .[Contato](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto05/README.md).
+
+## S05E02 - Java Exercício
+
+  - **Projeto 06 ArrayList** .[Tarifas](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto06/README.md).
