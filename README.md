@@ -21,26 +21,30 @@
 </p>
 
 
-## S02E02 - Java Exercício
-  
+## S02E02
+
   - **Projeto 02 Java** .[Carro](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto02).
 
-## S03E01 - Java Exercício
+## S03E01
   
   - **Projeto 03 Java** .[Cofre](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto03).
 
-## S04E01 - Java Exercício
+## S04E01
   
   - **Projeto 04 Encapsulamento** .[Tamagotchi](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto04).
 
-## S04E02 - Java Exercício
+## S04E02
 
   - **Projeto 05 Contato** .[Contato](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto05).
 
-## S05E02 - Java Exercício
+## S05E02
 
   - **Projeto 06 ArrayList** .[Tarifas](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto06).
 
-## ATIVIDADE DA AULA, DIA: 11/01/2021 - Java Exercício
+## S06E01
+
+  - **Projeto 06 Topic** .[Topic](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto0602).
+
+## ATIVIDADE DA AULA, DIA: 11/01/2021
 
   - **Projeto Cinema** .[Cinema](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoCinema).
