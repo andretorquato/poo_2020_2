@@ -23,7 +23,7 @@
 
 ## QUANTO TEMPO LEVOU?
    - [ ] Entender o projeto: 30 minutos
-   - [ ] Desenvolver:   5:00 horas.
+   - [ ] Desenvolver:   4:00 horas.
    - [ ] Criar o relatório: 20min.
-   - [ ] **TOTAL:** 5 e 50min.
+   - [ ] **TOTAL:** 4 e 50min.
 
