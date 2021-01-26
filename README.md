@@ -22,10 +22,8 @@
 </p>
 <p align="center">
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#s02e02">S02E02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#s03e01">S03E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#s04e01">S04E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#s04e02">S04E02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#s06e01">S06E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#atividade-da-aula,-dia:-11/01/2021">ATIVIDADE 11/01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## S02E02
@@ -46,7 +44,7 @@
 
 ## S05E02
 
-  - **Projeto 06 ArrayList** .[Tarifas](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto06).
+  - **Projeto 0502 ArrayList** .[Tarifas](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto06).
 
 ## S06E01
 
