@@ -23,7 +23,7 @@
 <p align="center">
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#s06e01">S06E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#atividade-da-aula,-dia:-11/01/2021">ATIVIDADE 11/01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#atividade">ATIVIDADE 11/01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## S02E02
@@ -50,6 +50,6 @@
 
   - **Projeto 06 Topic** .[Topic](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto0602).
 
-## ATIVIDADE DA AULA, DIA: 11/01/2021
-
+## ATIVIDADE
+  - ATIVIDADE DA AULA, DIA: 11/01/2021;
   - **Projeto Cinema** .[Cinema](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoCinema).
