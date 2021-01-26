@@ -13,8 +13,8 @@
 
 </p>
 <p align="center">
-  <a href="#S02E02---Java-Exercicio">S02E02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#S03E01---Java-Exercicio">S03E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#s02e2">S02E02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#s03e01">S03E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#S04E01---Java-Exercicio">S04E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#S04E02---Java-Exercicio">S04E02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#S05E02---Java-Exercicio">S05E02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
