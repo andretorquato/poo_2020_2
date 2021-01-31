@@ -57,4 +57,4 @@
 
 ## S07E02
 
-  - **Projeto 07 Agenda** .[Agenda](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto07)..
+  - **Projeto 07 Agenda** .[Agenda](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto07).
