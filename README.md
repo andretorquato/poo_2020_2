@@ -24,6 +24,7 @@
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#s06e01">S06E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#atividade">ATIVIDADE 11/01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#s06e01">S07E02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## S02E02
@@ -52,4 +53,8 @@
 
 ## ATIVIDADE
   - ATIVIDADE DA AULA, DIA: 11/01/2021;
-  - **Projeto Cinema** .[Cinema](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoCinema).
+  - **Projeto Cinema** .[Cinema](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoCinema)
+
+## S07E02
+
+  - **Projeto 07 Agenda** .[Topic](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto07)..
