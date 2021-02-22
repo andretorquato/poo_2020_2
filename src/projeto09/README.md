@@ -18,6 +18,7 @@ continuar o percursos.
 
 ## O QUE APRENDEU E O QUE TEM DE DIFICULDADE?
 - Botando em pratica o polimorfismo;
+- Criando excessões para carregar a bateria do carro eletrico
 
 ## QUANTO TEMPO LEVOU?
    - [ ] Entender o projeto: 10 minutos
