@@ -50,7 +50,7 @@ public class Agenda {
 			contatos.get(posicaoContato).removeFone(index);
 			
 		}else{
-			System.out.println("Contato não encontrado");
+			System.out.println("Contato nï¿½o encontrado");
 		}
 		
 		
