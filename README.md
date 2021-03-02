@@ -28,6 +28,12 @@
   <a href="#s08e01">S08E01</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#s09e02">S09E02</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#s010">S010</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#s010">S010</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  
+</p>
 
 ## S02E02
 
@@ -54,6 +60,7 @@
   - **Projeto 06 Topic** .[Topic](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto0602).
 
 ## ATIVIDADE
+  
   - ATIVIDADE DA AULA, DIA: 11/01/2021;
   - **Projeto Cinema** .[Cinema](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoCinema)
 
@@ -61,10 +68,14 @@
 
   - **Projeto 07 Busca** .[Busca](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto07).
 
-  ## S08E01
+## S08E01
 
   - **Projeto 08 Favoritos** .[Favoritos](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto07).
 
-    ## S09E02
+## S09E02
 
   - **Projeto 09 Polimorfismo** .[Carro](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projeto09).
+
+## S010
+
+  - **Projeto 10 ContatoStar** .[ContatoStar](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoContatoStar).

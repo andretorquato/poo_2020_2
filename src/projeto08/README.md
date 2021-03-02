@@ -1,4 +1,3 @@
-
 ## O QUE FEZ?
 - A partir do desafio sete em que consistia em criar uma agenda de contatos, dessa vez foi adicionado mais uma funcionalidade, onde é possível
 adicionar contatos favoritos
@@ -23,4 +22,3 @@ adicionar contatos favoritos
    - [ ] Desenvolver:   3:20 horas.
    - [ ] Criar o relatório: 15min.
    - [ ] **TOTAL:** 3 e 50min.
-
