@@ -1,15 +1,13 @@
 package projeto07;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 public class Agenda {
 
 	
-	Map<String, Contato> contatos = new HashMap<String, Contato>();
-	Map<String, Contato> favoritos = new HashMap<String, Contato>();
+	ArrayList<Contato> contatos = new ArrayList<>();
+	
 	Agenda(){}
 	
 	public void adicionarContato(String command) {
@@ -19,20 +17,19 @@ public class Agenda {
 		String nome =  word[1];
 		labels = pegarNumeros(word);
 		Contato contato = new Contato(nome);
-		String contatoNotFound = "";
-		String idContato = findContato(nome);
+		int verificaContato = findContato(nome);
 		
-		if(idContato.equals(contatoNotFound)) {
+		if(verificaContato == -1) {
 			for(int numero = 0; numero < labels.size(); numero++) {
 				String label = labels.get(numero);
 				contato.addFone(label);
 			}
-			String id = contato.nome;
-			contatos.put(id,contato);
+			
+			contatos.add(contato);
 		}else {
 			for(int numero = 0; numero < labels.size(); numero++) {
 				String label = labels.get(numero);
-				contatos.get(idContato).addFone(label);
+				contatos.get(verificaContato).addFone(label);
 			}
 			
 		}
@@ -41,27 +38,19 @@ public class Agenda {
 	public void removeContato(String command) {
 		String[] word = command.split(" ");
 		String nome =  word[1];
-		String idContato = findContato(nome);
-		String contatoNotFound = "";
-		
-		// este index é para saber sé é para deletar um número de telefone
-		// ou contato se contiver mais de uma palavra commando então deleta número em vez
-		// do contato
+		int posicaoContato = findContato(nome);
 		int index = -1;
 		if(word.length > 2) {
 			 index = Integer.parseInt(word[2]);
 		}
 		
-		if(index == -1 && !idContato.equals(contatoNotFound)) {
-			contatos.remove(idContato);
-			if(favoritos.get(idContato) != null) {
-				favoritos.remove(idContato);
-			}
-		}else if(index != -1 && !idContato.equals(contatoNotFound)) {
-			contatos.get(idContato).removeFone(index);
+		if(index == -1 && posicaoContato != -1) {
+			contatos.remove(posicaoContato);
+		}else if(index != -1 && posicaoContato != -1) {
+			contatos.get(posicaoContato).removeFone(index);
 			
 		}else{
-			System.out.println("Contato não encontrado");
+			System.out.println("Contato nï¿½o encontrado");
 		}
 		
 		
@@ -71,7 +60,7 @@ public class Agenda {
 	ArrayList<Contato> search(String pattern){
 	    ArrayList<Contato> result = new ArrayList<>();
 	     
-	    for(Contato contato : this.contatos.values()){
+	    for(Contato contato : this.contatos){
 	    	
 	    	if(contato.nome.indexOf(pattern) != -1) {
 	        	result.add(contato);
@@ -95,15 +84,14 @@ public class Agenda {
 	    
 	    return result;
 	}
-	
-	public String findContato(String nome) {
-		String id = "";
-	     for(String find: contatos.keySet()) {
-				if(contatos.get(find).nome.equals(nome)) {
-					id = find;
+	public int findContato(String nome) {
+		int posicao = -1;
+	     for(int posicaoDoContato = 0; posicaoDoContato < contatos.size(); posicaoDoContato++) {
+				if(contatos.get(posicaoDoContato).nome.equals(nome)) {
+					posicao = posicaoDoContato;
 				}
 			}
-	     return id;
+	     return posicao;
 	}
 	
 	public ArrayList<String> pegarNumeros(String[] numeros) {
@@ -117,46 +105,12 @@ public class Agenda {
 		return labels; 
 	}
 	@Override
-	
-	
 	public String toString() {
 		String allContatos = "";
-		for(String contato: contatos.keySet()) {
-			allContatos += contatos.get(contato).ToString() + System.lineSeparator();
+		for(Contato contato: contatos) {
+			allContatos += contato.ToString();
 		}
 		return ""+allContatos+"";
-	}
-	
-	
-	public void bookmark(String id){
-		if(contatos.get(id) != null) {
-		Contato contato = contatos.get(id);
-		contato.nome = "@"+contato.nome;
-		favoritos.put(id, contato);
-		}else {
-			System.out.println("fail: contato não encontrado");
-		}
-	}
-	
-	public void unBookmark(String id) {
-		if(contatos.get(id) != null) {
-		Contato contato = contatos.get(id);
-		contato.nome = id;
-		for(String procurar: favoritos.keySet()) {
-			if(procurar.equals(id)) {
-				favoritos.remove(id);
-			}
-			}
-		}else {
-			System.out.println("fail: contato não encontrado");
-		}
-	}
-	public void getBookmarks() {
-		String bookmarks = "";
-		for(String contato: favoritos.keySet()) {
-			bookmarks += favoritos.get(contato).ToString() + System.lineSeparator();
-		}
-		System.out.println(bookmarks);
 	}
 	public static void main(String[] args) {
 
@@ -167,25 +121,17 @@ public class Agenda {
 		while(true) {
 			String command = scan.nextLine();
 			String[] word = command.split(" ");
-			if(word[0].equals("add") && word.length > 1) {
+			if(word[0].equals("add")) {
 				agenda.adicionarContato(command);
-			}else if(word[0].equals("rm") && word.length > 1) {
+			}else if(word[0].equals("rm")) {
 				agenda.removeContato(command);
 			}else if(word[0].equals("show")){
 				System.out.println(agenda.toString());
 			}else if(word[0].equals("search")){
 				agenda.search(word[1]);
-			}else if(word[0].equals("star") && word.length > 1){
-				agenda.bookmark(word[1]);
-			}else if(word[0].equals("unstar") && word.length > 1){
-				agenda.unBookmark(word[1]);
-			}else if(word[0].equals("starred")){
-				agenda.getBookmarks();
 			}else if(word[0].equals("end")) {
 				System.out.println("PROGRAMA ENCERRADO!");
 				break;
-			}else {
-				System.out.println("fail: erro no comando");
 			}
 			
 		}
