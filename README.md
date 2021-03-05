@@ -31,7 +31,8 @@
 <p align="center">
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#s010">S010</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#s010">S010</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#s011">S011</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#s012">S012</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -79,3 +80,9 @@
 ## S010
 
   - **Projeto 10 ContatoStar** .[ContatoStar](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoContatoStar).
+
+## S011
+
+  - **Projeto 11 Twitter** .[Twitter](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoTwitter).
+
+## S012
