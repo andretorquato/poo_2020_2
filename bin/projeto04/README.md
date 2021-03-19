@@ -1,10 +1,10 @@
 
 ## O QUE FEZ?
 - Foi criado um mini pet chamado Tamagotchi onde você tem funções como:
-- [x] Tomar banho;
-- [x] Jogar;
-- [x] Comer;
-- [x] Dormir;
+- [ ] Tomar banho;
+- [ ] Jogar;
+- [ ] Comer;
+- [ ] Dormir;
 - Com cada função tendo um papel para não perder o game que consiste em não deixar o pet morrer.
 
 ## COM QUE FEZ?
@@ -21,8 +21,8 @@
 
 
 ## QUANTO TEMPO LEVOU?
-   - [x] Entender o projeto: 30 minutos
-   - [x] Desenvolver:   3:00 horas.
-   - [x] Criar o relatório: 45min.
-   - [x] **TOTAL:** 4 e 15min.
+   - [ ] Entender o projeto: 30 minutos
+   - [ ] Desenvolver:   3:00 horas.
+   - [ ] Criar o relatório: 45min.
+   - [ ] **TOTAL:** 4 e 15min.
 

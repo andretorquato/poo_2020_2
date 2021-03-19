@@ -1,10 +1,10 @@
 
 ## O QUE FEZ?
 - Foi desenvolvido uma agenda telefônica de um diversos contato, onde é possível gerenciar os números na agenda, com features que consistem em:
-- [x] Adicionar novo telefone para cada contato;
-- [x] Apresentar os números cadastrados;
-- [x] Buscar os números cadastrados por número, nome ou, label;
-- [x] Remover números cadastrados;
+- [ ] Adicionar novo telefone para cada contato;
+- [ ] Apresentar os números cadastrados;
+- [ ] Buscar os números cadastrados por número, nome ou, label;
+- [ ] Remover números cadastrados;
 
 ## COM QUE FEZ?
 - Sozinho.
@@ -20,8 +20,8 @@
 
 
 ## QUANTO TEMPO LEVOU?
-   - [x] Entender o projeto: 15 minutos
-   - [x] Desenvolver:   4:00 horas.
-   - [x] Criar o relatório: 15min.
-   - [x] **TOTAL:** 4 e 30min.
+   - [ ] Entender o projeto: 15 minutos
+   - [ ] Desenvolver:   4:00 horas.
+   - [ ] Criar o relatório: 15min.
+   - [ ] **TOTAL:** 4 e 30min.
 

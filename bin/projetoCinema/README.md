@@ -1,8 +1,8 @@
 
 ## O QUE FEZ?
 - Foi desenvolvido classes para simular o agendamento em uma sala de cinema, com features que consistem em:
-- [x] Reservar Clientes;
-- [x] Cancelar Clientes;
+- [ ] Reservar Clientes;
+- [ ] Cancelar Clientes;
 
 ## COM QUEM FEZ?
 - Sozinho.

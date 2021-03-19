@@ -1,12 +1,12 @@
 
 ## O QUE FEZ?
 - Foi desenvolvido classes para gerenciar contas bancarias, com features que consistem em:
-- [x] Depositar;
-- [x] Saques;
-- [x] Tarifas;
-- [x] Ver Extratos;
-- [x] Ver determinados extrato;
-- [x] Extornar valores;
+- [ ] Depositar;
+- [ ] Saques;
+- [ ] Tarifas;
+- [ ] Ver Extratos;
+- [ ] Ver determinados extrato;
+- [ ] Extornar valores;
 
 ## COM QUEM FEZ?
 - Sozinho.
@@ -22,8 +22,8 @@
 
 
 ## QUANTO TEMPO LEVOU?
-   - [x] Entender o projeto: 30 minutos
-   - [x] Desenvolver:   4:00 horas.
-   - [x] Criar o relatório: 20min.
-   - [x] **TOTAL:** 4 e 50min.
+   - [ ] Entender o projeto: 30 minutos
+   - [ ] Desenvolver:   4:00 horas.
+   - [ ] Criar o relatório: 20min.
+   - [ ] **TOTAL:** 4 e 50min.
 

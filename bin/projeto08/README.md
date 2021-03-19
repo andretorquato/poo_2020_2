@@ -1,11 +1,11 @@
 ## O QUE FEZ?
 - A partir do desafio sete em que consistia em criar uma agenda de contatos, dessa vez foi adicionado mais uma funcionalidade, onde é possível
 adicionar contatos favoritos
-- [x] Todas as funcionalidades do projeto anterior, adicionar, listar, remover buscar;
-- [x] Adicionar contato favorito;
-- [x] Apresentar os contatos favoritos;
-- [x] Remover contatos favoritos;
-- [x] Diferenciar contatos favoritos com "@";
+- [ ] Todas as funcionalidades do projeto anterior, adicionar, listar, remover buscar;
+- [ ] Adicionar contato favorito;
+- [ ] Apresentar os contatos favoritos;
+- [ ] Remover contatos favoritos;
+- [ ] Diferenciar contatos favoritos com "@";
 
 ## COM QUE FEZ?
 - Sozinho.
@@ -18,7 +18,7 @@ adicionar contatos favoritos
 - Utilizar Maps;
 
 ## QUANTO TEMPO LEVOU?
-   - [x] Entender o projeto: 15 minutos
-   - [x] Desenvolver:   3:20 horas.
-   - [x] Criar o relatório: 15min.
-   - [x] **TOTAL:** 3 e 50min.
+   - [ ] Entender o projeto: 15 minutos
+   - [ ] Desenvolver:   3:20 horas.
+   - [ ] Criar o relatório: 15min.
+   - [ ] **TOTAL:** 3 e 50min.

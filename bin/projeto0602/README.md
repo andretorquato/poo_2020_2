@@ -1,9 +1,9 @@
 ## O QUE FEZ?
 - Foi desenvolvido uma simulação de uma Topic, onde os passageiros podem embarcar e desembarcar;
-- [x] Subir;
-- [x] Descer;
-- [x] ArrayList Pessoas;
-- [x] Mostrar Pessoas Dentro;
+- [ ] Subir;
+- [ ] Descer;
+- [ ] ArrayList Pessoas;
+- [ ] Mostrar Pessoas Dentro;
 
 ## COM QUEM FEZ?
 - Sozinho.
@@ -20,8 +20,8 @@
 
 
 ## QUANTO TEMPO LEVOU?
-   - [x] Entender o projeto: 30 minutos
-   - [x] Desenvolver:   5:00 horas.
-   - [x] Criar o relatório: 15min.
-   - [x] **TOTAL:** 5 e 45min.
+   - [ ] Entender o projeto: 30 minutos
+   - [ ] Desenvolver:   5:00 horas.
+   - [ ] Criar o relatório: 15min.
+   - [ ] **TOTAL:** 5 e 45min.
 

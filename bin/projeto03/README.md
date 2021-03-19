@@ -1,9 +1,9 @@
 
 ## O QUE FEZ?
 - Desenvolvido o projeto do Cofre que consiste em algumas features:
-- [x] Adicionar moedas e itens;
-- [x] Pegar Itens e Moedas;
-- [x] Quebrar o Cofre;
+- [ ] Adicionar moedas e itens;
+- [ ] Pegar Itens e Moedas;
+- [ ] Quebrar o Cofre;
 - Existe uma lógica por tras de cada uma das funções acima para tornar o objeto mais proxímo do real, como: não é possivel pegar as moedas ou itens sem o cofre está quebrado.
 
 ## COM QUE FEZ?
@@ -21,8 +21,8 @@
 
 
 ## QUANTO TEMPO LEVOU?
-   - [x] Entender o projeto: 20 minutos
-   - [x] Desenvolver:   2:30 horas.
-   - [x] Criar o relatório: 35min.
-   - [x] **TOTAL:** 3 e 25min.
+   - [ ] Entender o projeto: 20 minutos
+   - [ ] Desenvolver:   2:30 horas.
+   - [ ] Criar o relatório: 35min.
+   - [ ] **TOTAL:** 3 e 25min.
 

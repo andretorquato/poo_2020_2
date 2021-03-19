@@ -5,7 +5,7 @@
 <p align="center">Here will be posted my activies related to OOP matters</p>
 <p align="center">
   <a href="https://github.com/AndreTorquato/poo_2020_2/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/AndreTorquato/poo_2020_2">
+    <img src="https://img.shields.io/badge/status-CONCLUÍDO-2BC016?style=flat-square"> 
   </a>
     <a href="https://www.linkedin.com/in/andretorquatoo/">
     <img alt="Made by André Torquato" src="https://img.shields.io/badge/made%20by-AndreTorquato-%2304D361">
@@ -111,5 +111,5 @@
 
 ## S014
 
-  - **Projeto 14 Cadastro** .[]().
-  - _proposta inicial:_ []()
+  - **Projeto 14 WhatsApp I - Chat Grupo** .[WhatsApp](https://github.com/AndreTorquato/poo_2020_2/tree/main/src/projetoWhatsapp).
+  - _proposta inicial:_ [WhatsApp I - Chat Grupo](https://github.com/qxcodepoo/arcade/tree/master/base/026)
